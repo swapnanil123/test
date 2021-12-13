@@ -1,0 +1,10 @@
+<------------------------Basic Github Controls-------------------------->
+
+1. Create a Repo in Github.
+2. Create a folder in your Local Machine.
+3. Initiate the Local Machine folder(which is you Create recently) as Git Repo.
+4. Copy Github Repo link.
+5. Link Github Repo and Local Machine Repo.
+6. Push, Pull and Update Data to Local Machine to Github Repo.
+
+<----------------------------------End---------------------------------->
